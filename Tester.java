@@ -7,5 +7,8 @@ public class Tester {
         System.out.println (ArrayOpps.sum(SumTester2));
         System.out.println (ArrayOpps.sum(SumTester3));
         System.out.println();
+        System.out.println(ArrayOpps.largest(SumTester1));
+        System.out.println(ArrayOpps.largest(SumTester3));
+        System.out.println();
     }
 }
